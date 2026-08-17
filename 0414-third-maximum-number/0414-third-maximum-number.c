@@ -1,30 +1,34 @@
-#include <limits.h>
-
 int thirdMax(int* nums, int numsSize) {
-    long first = LONG_MIN;
-    long second = LONG_MIN;
-    long third = LONG_MIN;
+    int i, j, maxIndex, temp;
+    
+    // Selection sort in descending order
+    for (i = 0; i < numsSize - 1; i++) {
+        maxIndex = i;
 
-    for (int i = 0; i < numsSize; i++) {
-        if (nums[i] == first || nums[i] == second || nums[i] == third)
-            continue;
+        for (j = i + 1; j < numsSize; j++) {
+            if (nums[j] > nums[maxIndex]) {
+                maxIndex = j;
+            }
+        }
 
-        if (nums[i] > first) {
-            third = second;
-            second = first;
-            first = nums[i];
-        }
-        else if (nums[i] > second) {
-            third = second;
-            second = nums[i];
-        }
-        else if (nums[i] > third) {
-            third = nums[i];
-        }
+        // Swap maximum element
+        temp = nums[i];
+        nums[i] = nums[maxIndex];
+        nums[maxIndex] = temp;
     }
 
-    if (third == LONG_MIN)
-        return (int)first;
+    // Count distinct maximum values
+    int count = 1;
 
-    return (int)third;
+    for (i = 1; i < numsSize; i++) {
+        if (nums[i] != nums[i - 1]) {
+            count++;
+        }
+
+        if (count == 3)
+            return nums[i];
+    }
+
+    // If third maximum doesn't exist
+    return nums[0];
 }
