@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0007-reverse-integer](https://github.com/Sohan-2807/Practice/tree/master/0007-reverse-integer) |
 | [0009-palindrome-number](https://github.com/Sohan-2807/Practice/tree/master/0009-palindrome-number) |
+| [0050-powx-n](https://github.com/Sohan-2807/Practice/tree/master/0050-powx-n) |
 | [0202-happy-number](https://github.com/Sohan-2807/Practice/tree/master/0202-happy-number) |
 ## Two Pointers
 |  |
@@ -36,4 +37,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0414-third-maximum-number](https://github.com/Sohan-2807/Practice/tree/master/0414-third-maximum-number) |
+## Recursion
+|  |
+| ------- |
+| [0050-powx-n](https://github.com/Sohan-2807/Practice/tree/master/0050-powx-n) |
 <!---LeetCode Topics End-->
