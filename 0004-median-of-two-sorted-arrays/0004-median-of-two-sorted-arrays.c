@@ -1,7 +1,7 @@
 double findMedianSortedArrays(int* nums1, int nums1Size, int* nums2, int nums2Size) {
     int size = nums1Size+nums2Size;
     double combo[size];
-    int temp;
+    
     
     
     for (int i = 0;i<nums1Size;i++){
@@ -13,6 +13,7 @@ double findMedianSortedArrays(int* nums1, int nums1Size, int* nums2, int nums2Si
     for (int i = 0;i<size;i++){
         for (int j = i;j<size;j++){
             if(combo[i]>combo[j]){
+                int temp;
                 temp = combo[i];
                 combo[i] = combo[j];
                 combo[j] = temp;
