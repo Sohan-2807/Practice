@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0004-median-of-two-sorted-arrays](https://github.com/Sohan-2807/Practice/tree/master/0004-median-of-two-sorted-arrays) |
 | [0414-third-maximum-number](https://github.com/Sohan-2807/Practice/tree/master/0414-third-maximum-number) |
 | [1512-number-of-good-pairs](https://github.com/Sohan-2807/Practice/tree/master/1512-number-of-good-pairs) |
+| [3069-distribute-elements-into-two-arrays-i](https://github.com/Sohan-2807/Practice/tree/master/3069-distribute-elements-into-two-arrays-i) |
 ## Hash Table
 |  |
 | ------- |
@@ -83,4 +84,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/Sohan-2807/Practice/tree/master/0004-median-of-two-sorted-arrays) |
+## Simulation
+|  |
+| ------- |
+| [3069-distribute-elements-into-two-arrays-i](https://github.com/Sohan-2807/Practice/tree/master/3069-distribute-elements-into-two-arrays-i) |
 <!---LeetCode Topics End-->
