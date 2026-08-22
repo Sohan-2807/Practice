@@ -25,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0050-powx-n](https://github.com/Sohan-2807/Practice/tree/master/0050-powx-n) |
 | [0202-happy-number](https://github.com/Sohan-2807/Practice/tree/master/0202-happy-number) |
 | [0223-rectangle-area](https://github.com/Sohan-2807/Practice/tree/master/0223-rectangle-area) |
+| [0258-add-digits](https://github.com/Sohan-2807/Practice/tree/master/0258-add-digits) |
 | [0326-power-of-three](https://github.com/Sohan-2807/Practice/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/Sohan-2807/Practice/tree/master/0342-power-of-four) |
 | [0372-super-pow](https://github.com/Sohan-2807/Practice/tree/master/0372-super-pow) |
@@ -87,5 +88,10 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [0258-add-digits](https://github.com/Sohan-2807/Practice/tree/master/0258-add-digits) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/Sohan-2807/Practice/tree/master/3069-distribute-elements-into-two-arrays-i) |
+## Number Theory
+|  |
+| ------- |
+| [0258-add-digits](https://github.com/Sohan-2807/Practice/tree/master/0258-add-digits) |
 <!---LeetCode Topics End-->
