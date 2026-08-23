@@ -57,6 +57,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Recursion
 |  |
 | ------- |
+| [0021-merge-two-sorted-lists](https://github.com/Sohan-2807/Practice/tree/master/0021-merge-two-sorted-lists) |
 | [0050-powx-n](https://github.com/Sohan-2807/Practice/tree/master/0050-powx-n) |
 | [0326-power-of-three](https://github.com/Sohan-2807/Practice/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/Sohan-2807/Practice/tree/master/0342-power-of-four) |
@@ -106,4 +107,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/Sohan-2807/Practice/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
+## Linked List
+|  |
+| ------- |
+| [0021-merge-two-sorted-lists](https://github.com/Sohan-2807/Practice/tree/master/0021-merge-two-sorted-lists) |
 <!---LeetCode Topics End-->
