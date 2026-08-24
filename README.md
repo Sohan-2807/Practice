@@ -32,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0326-power-of-three](https://github.com/Sohan-2807/Practice/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/Sohan-2807/Practice/tree/master/0342-power-of-four) |
 | [0372-super-pow](https://github.com/Sohan-2807/Practice/tree/master/0372-super-pow) |
+| [0507-perfect-number](https://github.com/Sohan-2807/Practice/tree/master/0507-perfect-number) |
 | [0509-fibonacci-number](https://github.com/Sohan-2807/Practice/tree/master/0509-fibonacci-number) |
 | [1512-number-of-good-pairs](https://github.com/Sohan-2807/Practice/tree/master/1512-number-of-good-pairs) |
 | [1523-count-odd-numbers-in-an-interval-range](https://github.com/Sohan-2807/Practice/tree/master/1523-count-odd-numbers-in-an-interval-range) |
