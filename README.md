@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/Sohan-2807/Practice/tree/master/0001-two-sum) |
 | [0004-median-of-two-sorted-arrays](https://github.com/Sohan-2807/Practice/tree/master/0004-median-of-two-sorted-arrays) |
+| [0066-plus-one](https://github.com/Sohan-2807/Practice/tree/master/0066-plus-one) |
 | [0414-third-maximum-number](https://github.com/Sohan-2807/Practice/tree/master/0414-third-maximum-number) |
 | [1512-number-of-good-pairs](https://github.com/Sohan-2807/Practice/tree/master/1512-number-of-good-pairs) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/Sohan-2807/Practice/tree/master/3069-distribute-elements-into-two-arrays-i) |
@@ -27,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0009-palindrome-number](https://github.com/Sohan-2807/Practice/tree/master/0009-palindrome-number) |
 | [0029-divide-two-integers](https://github.com/Sohan-2807/Practice/tree/master/0029-divide-two-integers) |
 | [0050-powx-n](https://github.com/Sohan-2807/Practice/tree/master/0050-powx-n) |
+| [0066-plus-one](https://github.com/Sohan-2807/Practice/tree/master/0066-plus-one) |
 | [0070-climbing-stairs](https://github.com/Sohan-2807/Practice/tree/master/0070-climbing-stairs) |
 | [0202-happy-number](https://github.com/Sohan-2807/Practice/tree/master/0202-happy-number) |
 | [0223-rectangle-area](https://github.com/Sohan-2807/Practice/tree/master/0223-rectangle-area) |
