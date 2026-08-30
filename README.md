@@ -39,6 +39,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0258-add-digits](https://github.com/Sohan-2807/Practice/tree/master/0258-add-digits) |
 | [0326-power-of-three](https://github.com/Sohan-2807/Practice/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/Sohan-2807/Practice/tree/master/0342-power-of-four) |
+| [0367-valid-perfect-square](https://github.com/Sohan-2807/Practice/tree/master/0367-valid-perfect-square) |
 | [0372-super-pow](https://github.com/Sohan-2807/Practice/tree/master/0372-super-pow) |
 | [0507-perfect-number](https://github.com/Sohan-2807/Practice/tree/master/0507-perfect-number) |
 | [0509-fibonacci-number](https://github.com/Sohan-2807/Practice/tree/master/0509-fibonacci-number) |
@@ -108,6 +109,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/Sohan-2807/Practice/tree/master/0004-median-of-two-sorted-arrays) |
 | [0035-search-insert-position](https://github.com/Sohan-2807/Practice/tree/master/0035-search-insert-position) |
+| [0367-valid-perfect-square](https://github.com/Sohan-2807/Practice/tree/master/0367-valid-perfect-square) |
 | [0704-binary-search](https://github.com/Sohan-2807/Practice/tree/master/0704-binary-search) |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/Sohan-2807/Practice/tree/master/0744-find-smallest-letter-greater-than-target) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/Sohan-2807/Practice/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
