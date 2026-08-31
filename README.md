@@ -110,6 +110,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/Sohan-2807/Practice/tree/master/0004-median-of-two-sorted-arrays) |
 | [0035-search-insert-position](https://github.com/Sohan-2807/Practice/tree/master/0035-search-insert-position) |
+| [0278-first-bad-version](https://github.com/Sohan-2807/Practice/tree/master/0278-first-bad-version) |
 | [0367-valid-perfect-square](https://github.com/Sohan-2807/Practice/tree/master/0367-valid-perfect-square) |
 | [0374-guess-number-higher-or-lower](https://github.com/Sohan-2807/Practice/tree/master/0374-guess-number-higher-or-lower) |
 | [0441-arranging-coins](https://github.com/Sohan-2807/Practice/tree/master/0441-arranging-coins) |
@@ -153,5 +154,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Interactive
 |  |
 | ------- |
+| [0278-first-bad-version](https://github.com/Sohan-2807/Practice/tree/master/0278-first-bad-version) |
 | [0374-guess-number-higher-or-lower](https://github.com/Sohan-2807/Practice/tree/master/0374-guess-number-higher-or-lower) |
 <!---LeetCode Topics End-->
