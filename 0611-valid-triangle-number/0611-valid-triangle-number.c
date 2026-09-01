@@ -22,6 +22,5 @@ int triangleNumber(int* nums, int numsSize) {
             }
         }
     }
-
     return count;
 }
