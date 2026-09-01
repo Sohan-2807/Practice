@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0035-search-insert-position](https://github.com/Sohan-2807/Practice/tree/master/0035-search-insert-position) |
 | [0066-plus-one](https://github.com/Sohan-2807/Practice/tree/master/0066-plus-one) |
 | [0414-third-maximum-number](https://github.com/Sohan-2807/Practice/tree/master/0414-third-maximum-number) |
+| [0611-valid-triangle-number](https://github.com/Sohan-2807/Practice/tree/master/0611-valid-triangle-number) |
 | [0704-binary-search](https://github.com/Sohan-2807/Practice/tree/master/0704-binary-search) |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/Sohan-2807/Practice/tree/master/0744-find-smallest-letter-greater-than-target) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/Sohan-2807/Practice/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
@@ -54,6 +55,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0125-valid-palindrome](https://github.com/Sohan-2807/Practice/tree/master/0125-valid-palindrome) |
 | [0202-happy-number](https://github.com/Sohan-2807/Practice/tree/master/0202-happy-number) |
+| [0611-valid-triangle-number](https://github.com/Sohan-2807/Practice/tree/master/0611-valid-triangle-number) |
 ## Floyd's Cycle Finding Algorithm
 |  |
 | ------- |
@@ -69,6 +71,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0414-third-maximum-number](https://github.com/Sohan-2807/Practice/tree/master/0414-third-maximum-number) |
+| [0611-valid-triangle-number](https://github.com/Sohan-2807/Practice/tree/master/0611-valid-triangle-number) |
 ## Recursion
 |  |
 | ------- |
@@ -114,6 +117,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0367-valid-perfect-square](https://github.com/Sohan-2807/Practice/tree/master/0367-valid-perfect-square) |
 | [0374-guess-number-higher-or-lower](https://github.com/Sohan-2807/Practice/tree/master/0374-guess-number-higher-or-lower) |
 | [0441-arranging-coins](https://github.com/Sohan-2807/Practice/tree/master/0441-arranging-coins) |
+| [0611-valid-triangle-number](https://github.com/Sohan-2807/Practice/tree/master/0611-valid-triangle-number) |
 | [0704-binary-search](https://github.com/Sohan-2807/Practice/tree/master/0704-binary-search) |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/Sohan-2807/Practice/tree/master/0744-find-smallest-letter-greater-than-target) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/Sohan-2807/Practice/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
@@ -156,4 +160,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0278-first-bad-version](https://github.com/Sohan-2807/Practice/tree/master/0278-first-bad-version) |
 | [0374-guess-number-higher-or-lower](https://github.com/Sohan-2807/Practice/tree/master/0374-guess-number-higher-or-lower) |
+## Greedy
+|  |
+| ------- |
+| [0611-valid-triangle-number](https://github.com/Sohan-2807/Practice/tree/master/0611-valid-triangle-number) |
 <!---LeetCode Topics End-->
