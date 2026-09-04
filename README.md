@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0004-median-of-two-sorted-arrays](https://github.com/Sohan-2807/Practice/tree/master/0004-median-of-two-sorted-arrays) |
 | [0035-search-insert-position](https://github.com/Sohan-2807/Practice/tree/master/0035-search-insert-position) |
 | [0066-plus-one](https://github.com/Sohan-2807/Practice/tree/master/0066-plus-one) |
+| [0088-merge-sorted-array](https://github.com/Sohan-2807/Practice/tree/master/0088-merge-sorted-array) |
 | [0283-move-zeroes](https://github.com/Sohan-2807/Practice/tree/master/0283-move-zeroes) |
 | [0414-third-maximum-number](https://github.com/Sohan-2807/Practice/tree/master/0414-third-maximum-number) |
 | [0611-valid-triangle-number](https://github.com/Sohan-2807/Practice/tree/master/0611-valid-triangle-number) |
@@ -57,6 +58,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0088-merge-sorted-array](https://github.com/Sohan-2807/Practice/tree/master/0088-merge-sorted-array) |
 | [0125-valid-palindrome](https://github.com/Sohan-2807/Practice/tree/master/0125-valid-palindrome) |
 | [0202-happy-number](https://github.com/Sohan-2807/Practice/tree/master/0202-happy-number) |
 | [0283-move-zeroes](https://github.com/Sohan-2807/Practice/tree/master/0283-move-zeroes) |
@@ -75,6 +77,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0088-merge-sorted-array](https://github.com/Sohan-2807/Practice/tree/master/0088-merge-sorted-array) |
 | [0414-third-maximum-number](https://github.com/Sohan-2807/Practice/tree/master/0414-third-maximum-number) |
 | [0611-valid-triangle-number](https://github.com/Sohan-2807/Practice/tree/master/0611-valid-triangle-number) |
 ## Recursion
