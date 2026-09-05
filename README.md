@@ -47,6 +47,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0367-valid-perfect-square](https://github.com/Sohan-2807/Practice/tree/master/0367-valid-perfect-square) |
 | [0372-super-pow](https://github.com/Sohan-2807/Practice/tree/master/0372-super-pow) |
 | [0441-arranging-coins](https://github.com/Sohan-2807/Practice/tree/master/0441-arranging-coins) |
+| [0504-base-7](https://github.com/Sohan-2807/Practice/tree/master/0504-base-7) |
 | [0507-perfect-number](https://github.com/Sohan-2807/Practice/tree/master/0507-perfect-number) |
 | [0509-fibonacci-number](https://github.com/Sohan-2807/Practice/tree/master/0509-fibonacci-number) |
 | [1512-number-of-good-pairs](https://github.com/Sohan-2807/Practice/tree/master/1512-number-of-good-pairs) |
@@ -73,6 +74,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0008-string-to-integer-atoi](https://github.com/Sohan-2807/Practice/tree/master/0008-string-to-integer-atoi) |
 | [0010-regular-expression-matching](https://github.com/Sohan-2807/Practice/tree/master/0010-regular-expression-matching) |
 | [0125-valid-palindrome](https://github.com/Sohan-2807/Practice/tree/master/0125-valid-palindrome) |
+| [0504-base-7](https://github.com/Sohan-2807/Practice/tree/master/0504-base-7) |
 | [1812-determine-color-of-a-chessboard-square](https://github.com/Sohan-2807/Practice/tree/master/1812-determine-color-of-a-chessboard-square) |
 ## Sorting
 |  |
