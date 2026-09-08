@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0035-search-insert-position](https://github.com/Sohan-2807/Practice/tree/master/0035-search-insert-position) |
 | [0066-plus-one](https://github.com/Sohan-2807/Practice/tree/master/0066-plus-one) |
 | [0088-merge-sorted-array](https://github.com/Sohan-2807/Practice/tree/master/0088-merge-sorted-array) |
+| [0136-single-number](https://github.com/Sohan-2807/Practice/tree/master/0136-single-number) |
 | [0283-move-zeroes](https://github.com/Sohan-2807/Practice/tree/master/0283-move-zeroes) |
 | [0414-third-maximum-number](https://github.com/Sohan-2807/Practice/tree/master/0414-third-maximum-number) |
 | [0611-valid-triangle-number](https://github.com/Sohan-2807/Practice/tree/master/0611-valid-triangle-number) |
@@ -101,6 +102,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0029-divide-two-integers](https://github.com/Sohan-2807/Practice/tree/master/0029-divide-two-integers) |
+| [0136-single-number](https://github.com/Sohan-2807/Practice/tree/master/0136-single-number) |
 | [0342-power-of-four](https://github.com/Sohan-2807/Practice/tree/master/0342-power-of-four) |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/Sohan-2807/Practice/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
 ## Divide and Conquer
