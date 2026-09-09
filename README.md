@@ -21,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1480-running-sum-of-1d-array](https://github.com/Sohan-2807/Practice/tree/master/1480-running-sum-of-1d-array) |
 | [1512-number-of-good-pairs](https://github.com/Sohan-2807/Practice/tree/master/1512-number-of-good-pairs) |
 | [1539-kth-missing-positive-number](https://github.com/Sohan-2807/Practice/tree/master/1539-kth-missing-positive-number) |
+| [1920-build-array-from-permutation](https://github.com/Sohan-2807/Practice/tree/master/1920-build-array-from-permutation) |
 | [1929-concatenation-of-array](https://github.com/Sohan-2807/Practice/tree/master/1929-concatenation-of-array) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/Sohan-2807/Practice/tree/master/3069-distribute-elements-into-two-arrays-i) |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/Sohan-2807/Practice/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
@@ -141,6 +142,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0258-add-digits](https://github.com/Sohan-2807/Practice/tree/master/0258-add-digits) |
+| [1920-build-array-from-permutation](https://github.com/Sohan-2807/Practice/tree/master/1920-build-array-from-permutation) |
 | [1929-concatenation-of-array](https://github.com/Sohan-2807/Practice/tree/master/1929-concatenation-of-array) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/Sohan-2807/Practice/tree/master/3069-distribute-elements-into-two-arrays-i) |
 ## Number Theory
