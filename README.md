@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0136-single-number](https://github.com/Sohan-2807/Practice/tree/master/0136-single-number) |
 | [0283-move-zeroes](https://github.com/Sohan-2807/Practice/tree/master/0283-move-zeroes) |
 | [0414-third-maximum-number](https://github.com/Sohan-2807/Practice/tree/master/0414-third-maximum-number) |
+| [0561-array-partition](https://github.com/Sohan-2807/Practice/tree/master/0561-array-partition) |
 | [0611-valid-triangle-number](https://github.com/Sohan-2807/Practice/tree/master/0611-valid-triangle-number) |
 | [0704-binary-search](https://github.com/Sohan-2807/Practice/tree/master/0704-binary-search) |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/Sohan-2807/Practice/tree/master/0744-find-smallest-letter-greater-than-target) |
@@ -88,6 +89,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0088-merge-sorted-array](https://github.com/Sohan-2807/Practice/tree/master/0088-merge-sorted-array) |
 | [0414-third-maximum-number](https://github.com/Sohan-2807/Practice/tree/master/0414-third-maximum-number) |
+| [0561-array-partition](https://github.com/Sohan-2807/Practice/tree/master/0561-array-partition) |
 | [0611-valid-triangle-number](https://github.com/Sohan-2807/Practice/tree/master/0611-valid-triangle-number) |
 | [0977-squares-of-a-sorted-array](https://github.com/Sohan-2807/Practice/tree/master/0977-squares-of-a-sorted-array) |
 ## Recursion
@@ -185,6 +187,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Greedy
 |  |
 | ------- |
+| [0561-array-partition](https://github.com/Sohan-2807/Practice/tree/master/0561-array-partition) |
 | [0611-valid-triangle-number](https://github.com/Sohan-2807/Practice/tree/master/0611-valid-triangle-number) |
 ## Prefix Sum
 |  |
@@ -198,4 +201,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/Sohan-2807/Practice/tree/master/0020-valid-parentheses) |
+## Counting Sort
+|  |
+| ------- |
+| [0561-array-partition](https://github.com/Sohan-2807/Practice/tree/master/0561-array-partition) |
 <!---LeetCode Topics End-->
