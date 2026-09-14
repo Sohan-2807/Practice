@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0088-merge-sorted-array](https://github.com/Sohan-2807/Practice/tree/master/0088-merge-sorted-array) |
 | [0136-single-number](https://github.com/Sohan-2807/Practice/tree/master/0136-single-number) |
 | [0283-move-zeroes](https://github.com/Sohan-2807/Practice/tree/master/0283-move-zeroes) |
+| [0349-intersection-of-two-arrays](https://github.com/Sohan-2807/Practice/tree/master/0349-intersection-of-two-arrays) |
 | [0414-third-maximum-number](https://github.com/Sohan-2807/Practice/tree/master/0414-third-maximum-number) |
 | [0561-array-partition](https://github.com/Sohan-2807/Practice/tree/master/0561-array-partition) |
 | [0611-valid-triangle-number](https://github.com/Sohan-2807/Practice/tree/master/0611-valid-triangle-number) |
@@ -34,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/Sohan-2807/Practice/tree/master/0001-two-sum) |
 | [0202-happy-number](https://github.com/Sohan-2807/Practice/tree/master/0202-happy-number) |
+| [0349-intersection-of-two-arrays](https://github.com/Sohan-2807/Practice/tree/master/0349-intersection-of-two-arrays) |
 | [1512-number-of-good-pairs](https://github.com/Sohan-2807/Practice/tree/master/1512-number-of-good-pairs) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/Sohan-2807/Practice/tree/master/3718-smallest-missing-multiple-of-k) |
 ## Math
@@ -69,6 +71,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0125-valid-palindrome](https://github.com/Sohan-2807/Practice/tree/master/0125-valid-palindrome) |
 | [0202-happy-number](https://github.com/Sohan-2807/Practice/tree/master/0202-happy-number) |
 | [0283-move-zeroes](https://github.com/Sohan-2807/Practice/tree/master/0283-move-zeroes) |
+| [0349-intersection-of-two-arrays](https://github.com/Sohan-2807/Practice/tree/master/0349-intersection-of-two-arrays) |
 | [0611-valid-triangle-number](https://github.com/Sohan-2807/Practice/tree/master/0611-valid-triangle-number) |
 | [0977-squares-of-a-sorted-array](https://github.com/Sohan-2807/Practice/tree/master/0977-squares-of-a-sorted-array) |
 ## Floyd's Cycle Finding Algorithm
@@ -88,6 +91,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0088-merge-sorted-array](https://github.com/Sohan-2807/Practice/tree/master/0088-merge-sorted-array) |
+| [0349-intersection-of-two-arrays](https://github.com/Sohan-2807/Practice/tree/master/0349-intersection-of-two-arrays) |
 | [0414-third-maximum-number](https://github.com/Sohan-2807/Practice/tree/master/0414-third-maximum-number) |
 | [0561-array-partition](https://github.com/Sohan-2807/Practice/tree/master/0561-array-partition) |
 | [0611-valid-triangle-number](https://github.com/Sohan-2807/Practice/tree/master/0611-valid-triangle-number) |
@@ -135,6 +139,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0004-median-of-two-sorted-arrays](https://github.com/Sohan-2807/Practice/tree/master/0004-median-of-two-sorted-arrays) |
 | [0035-search-insert-position](https://github.com/Sohan-2807/Practice/tree/master/0035-search-insert-position) |
 | [0278-first-bad-version](https://github.com/Sohan-2807/Practice/tree/master/0278-first-bad-version) |
+| [0349-intersection-of-two-arrays](https://github.com/Sohan-2807/Practice/tree/master/0349-intersection-of-two-arrays) |
 | [0367-valid-perfect-square](https://github.com/Sohan-2807/Practice/tree/master/0367-valid-perfect-square) |
 | [0374-guess-number-higher-or-lower](https://github.com/Sohan-2807/Practice/tree/master/0374-guess-number-higher-or-lower) |
 | [0441-arranging-coins](https://github.com/Sohan-2807/Practice/tree/master/0441-arranging-coins) |
