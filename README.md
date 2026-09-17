@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/Sohan-2807/Practice/tree/master/0001-two-sum) |
 | [0004-median-of-two-sorted-arrays](https://github.com/Sohan-2807/Practice/tree/master/0004-median-of-two-sorted-arrays) |
+| [0014-longest-common-prefix](https://github.com/Sohan-2807/Practice/tree/master/0014-longest-common-prefix) |
 | [0035-search-insert-position](https://github.com/Sohan-2807/Practice/tree/master/0035-search-insert-position) |
 | [0066-plus-one](https://github.com/Sohan-2807/Practice/tree/master/0066-plus-one) |
 | [0088-merge-sorted-array](https://github.com/Sohan-2807/Practice/tree/master/0088-merge-sorted-array) |
@@ -84,6 +85,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0008-string-to-integer-atoi](https://github.com/Sohan-2807/Practice/tree/master/0008-string-to-integer-atoi) |
 | [0010-regular-expression-matching](https://github.com/Sohan-2807/Practice/tree/master/0010-regular-expression-matching) |
+| [0014-longest-common-prefix](https://github.com/Sohan-2807/Practice/tree/master/0014-longest-common-prefix) |
 | [0020-valid-parentheses](https://github.com/Sohan-2807/Practice/tree/master/0020-valid-parentheses) |
 | [0125-valid-palindrome](https://github.com/Sohan-2807/Practice/tree/master/0125-valid-palindrome) |
 | [0415-add-strings](https://github.com/Sohan-2807/Practice/tree/master/0415-add-strings) |
@@ -217,4 +219,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0197-rising-temperature](https://github.com/Sohan-2807/Practice/tree/master/0197-rising-temperature) |
+## Trie
+|  |
+| ------- |
+| [0014-longest-common-prefix](https://github.com/Sohan-2807/Practice/tree/master/0014-longest-common-prefix) |
 <!---LeetCode Topics End-->
