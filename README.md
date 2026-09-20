@@ -91,6 +91,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0415-add-strings](https://github.com/Sohan-2807/Practice/tree/master/0415-add-strings) |
 | [0504-base-7](https://github.com/Sohan-2807/Practice/tree/master/0504-base-7) |
 | [1812-determine-color-of-a-chessboard-square](https://github.com/Sohan-2807/Practice/tree/master/1812-determine-color-of-a-chessboard-square) |
+| [3498-reverse-degree-of-a-string](https://github.com/Sohan-2807/Practice/tree/master/3498-reverse-degree-of-a-string) |
 ## Sorting
 |  |
 | ------- |
@@ -161,6 +162,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1920-build-array-from-permutation](https://github.com/Sohan-2807/Practice/tree/master/1920-build-array-from-permutation) |
 | [1929-concatenation-of-array](https://github.com/Sohan-2807/Practice/tree/master/1929-concatenation-of-array) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/Sohan-2807/Practice/tree/master/3069-distribute-elements-into-two-arrays-i) |
+| [3498-reverse-degree-of-a-string](https://github.com/Sohan-2807/Practice/tree/master/3498-reverse-degree-of-a-string) |
 ## Number Theory
 |  |
 | ------- |
